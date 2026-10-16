@@ -1,6 +1,6 @@
-# {NOM}
+# Dressing Avisé
 
-Média comparateur {SECTEUR}, construit sur le modèle du média Comparamode (analytics-ds/comparamode).
+Magazine de la mode femme et de la maroquinerie premium (sacs, cabas, prêt-à-porter, chaussures, cadeaux).
 Site statique, sans dépendance ni build côté serveur : les pages HTML sont générées par des scripts Python
 et servies telles quelles par GitHub Pages.
 
@@ -15,7 +15,7 @@ et servies telles quelles par GitHub Pages.
 | `pages.py` | Pages fixes (à propos, mentions légales) |
 | `photos.json`, `brands.json` | Ce qu'il faut télécharger : photos (avec requête source) et logos des entités comparées |
 | `sources_photos.json`, `sources_logos.json` | Origine de chaque visuel (crédit, URL) |
-| `assets/css/site.css`, `assets/js/site.js` | Feuille de style et scripts hérités de Comparamode, recolorés |
+| `assets/css/site.css`, `assets/js/site.js` | Feuille de style et scripts du site |
 | `build_*.py`, `common.py`, `contenus.py`, `linkify.py` | Générateurs. `build_all.py` régénère tout |
 
 ## Régénérer
