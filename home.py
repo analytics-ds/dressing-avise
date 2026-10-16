@@ -4,7 +4,7 @@
 HOME = dict(
  title="Meilleurs sacs et marques de mode femme 2026, le classement Dressing Avisé",
  desc="Quel sac cabas, quelle marque de mode femme premium choisir en 2026 ? Classements de 27 marques, prix relevés en octobre 2026, critères et poids publiés. Mis à jour chaque semaine.",
- hero_img="hero-bg.jpg", hero_alt="Femme élégante portant un sac cabas dans une rue de Paris",
+ hero_img="hero-bg.jpg", hero_alt="Femme portant un sac à l'épaule sur un quai de Seine à Paris",
  h1="Les meilleurs <em>sacs et marques</em> de mode femme, classés",
  p="Quel cabas choisir, quelle maison de prêt-à-porter mérite son prix ? Nous comparons 27 marques sur les matières, la coupe, le prix et le service. Classements mis à jour le 16 octobre 2026.",
  marquee_head="Les maisons que nous comparons chaque semaine",

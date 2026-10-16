@@ -530,3 +530,4 @@ td.note.best{color:#1E7A1E}
 /* Dressing Avisé : logos lisibles sur le podium accent foncé */
 .pod img{height:26px;max-width:150px}
 .pod.first img{filter:grayscale(1) brightness(0) invert(1)}
+@media (max-width:760px){.hero-bg{object-position:44% 40%}}

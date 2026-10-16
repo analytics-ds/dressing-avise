@@ -13,7 +13,7 @@ OWNER = "analytics-ds"                    # compte GitHub qui héberge le repo (
 SITE = f"https://{OWNER}.github.io/{SLUG}"  # racine publique, sans slash final (canonical, JSON-LD, sitemap)
 LANG = "fr"
 ACCENT = "#123B2F"                        # couleur d'accent, réécrite par scripts/recolor.py (theme-color)
-CSS_V = "8"                               # cache-buster des assets
+CSS_V = "9"                               # cache-buster des assets
 
 # ------------------------------------------------------------------ vocabulaire
 UNIT = "marques"
