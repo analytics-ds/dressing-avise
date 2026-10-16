@@ -1,0 +1,150 @@
+{
+ "sezane": {
+  "source": "wikipedia",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_S%C3%A9zane.png/960px-Logo_S%C3%A9zane.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File:Logo_S%C3%A9zane.png",
+  "file": "sezane.png"
+ },
+ "longchamp": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Longchamp_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Longchamp_logo.svg",
+  "file": "longchamp.svg"
+ },
+ "sandro": {
+  "source": "commons",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sandro_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ASandro_logo.svg",
+  "file": "sandro.svg"
+ },
+ "maje": {
+  "source": "site",
+  "url": "https://maje.com/on/demandware.static/-/Sites/default/dwef39e50b/Logo/Maje-logo-nofill-new-50.svg",
+  "credit": "https://maje.com/",
+  "file": "maje.svg"
+ },
+ "bash": {
+  "source": "site",
+  "url": "https://ba-sh.com/on/demandware.static/Sites-bash-Site/-/default/dw78a479b6/images/logo.svg",
+  "credit": "https://ba-sh.com/",
+  "file": "bash.svg"
+ },
+ "claudie-pierlot": {
+  "source": "manuel",
+  "url": "https://www.claudiepierlot.com/fr/ (svg inline du header)"
+ },
+ "soeur": {
+  "source": "manuel",
+  "url": "https://www.soeur.fr/cdn/shop/files/soeur.svg",
+  "file": "soeur.svg"
+ },
+ "apc": {
+  "source": "manuel",
+  "url": "https://www.apc.fr/cdn/shop/files/A.P.C._LOGO_2019.svg",
+  "file": "apc.svg"
+ },
+ "gerard-darel": {
+  "source": "site",
+  "url": "https://gerarddarel.com/ (svg inline)",
+  "credit": "https://gerarddarel.com/",
+  "file": "gerard-darel.svg"
+ },
+ "lancaster": {
+  "source": "manuel",
+  "url": "https://www.lancaster.com/cdn/shop/files/logo-lancaster.svg",
+  "file": "lancaster.svg"
+ },
+ "le-tanneur": {
+  "source": "site",
+  "url": "https://letanneur.com/ (svg inline)",
+  "credit": "https://letanneur.com/",
+  "file": "le-tanneur.svg"
+ },
+ "polene": {
+  "source": "manuel",
+  "url": "https://www.polene-paris.com/ (svg inline du header)"
+ },
+ "veja": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Veja.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Veja.svg",
+  "file": "veja.svg"
+ },
+ "adidas": {
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Adidas_Logo.svg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Adidas_Logo.svg",
+  "file": "adidas.svg"
+ },
+ "new-balance": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/New_Balance_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:New_Balance_logo.svg",
+  "file": "new-balance.svg"
+ },
+ "golden-goose": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Golden_Goose_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Golden_Goose_logo.svg",
+  "file": "golden-goose.svg"
+ },
+ "nike": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nike_logo_1978.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Nike_logo_1978.svg",
+  "file": "nike.svg"
+ },
+ "aubade": {
+  "source": "site",
+  "url": "https://aubade.fr/ (svg inline)",
+  "credit": "https://aubade.fr/",
+  "file": "aubade.svg"
+ },
+ "simone-perele": {
+  "source": "site",
+  "url": "https://simone-perele.com/cdn/shop/files/LOGO_COLOR_SP.svg?v=1748944186&amp;width=480",
+  "credit": "https://simone-perele.com/",
+  "file": "simone-perele.svg"
+ },
+ "maison-lejaby": {
+  "source": "site",
+  "url": "https://www.maisonlejaby.com/cdn/shop/files/logo-maison-lejaby.svg?v=1729498486&amp;width=600",
+  "credit": "https://maisonlejaby.com/",
+  "file": "maison-lejaby.svg"
+ },
+ "chantelle": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Chantelle_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Chantelle_Logo.svg",
+  "file": "chantelle.svg"
+ },
+ "yse": {
+  "source": "manuel",
+  "url": "https://yse-paris.com/ (svg inline du header)"
+ },
+ "vanessa-bruno": {
+  "source": "manuel",
+  "url": "https://www.vanessabruno.fr/svg/logoVb.svg"
+ },
+ "autry": {
+  "source": "manuel",
+  "url": "https://static.autry-usa.com/upload/box/4_it_img_20241118121119-logo-black.svg",
+  "file": "autry.svg"
+ },
+ "princesse-tam-tam": {
+  "source": "manuel",
+  "url": "https://www.princessetamtam.com/ (svg inline du header)"
+ },
+ "superga": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Superga_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Superga_logo.svg",
+  "file": "superga.svg"
+ },
+ "maison-close": {
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Maison_close_logo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "https://commons.wikimedia.org/wiki/File:Maison_close_logo.png",
+  "file": "maison-close.png"
+ }
+}

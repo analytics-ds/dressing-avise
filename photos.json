@@ -1,0 +1,584 @@
+{
+ "hero-bg.jpg": {
+  "q": "woman handbag paris",
+  "w": 2400,
+  "h": 1600,
+  "alt": "Femme élégante portant un sac cabas dans une rue de Paris"
+ },
+ "cat-cabas.jpg": {
+  "q": "woman leather tote bag",
+  "w": 760,
+  "h": 720,
+  "alt": "Femme portant un grand cabas à l'épaule"
+ },
+ "cat-cabas-hero.jpg": {
+  "q": "woman shopping bag street",
+  "w": 2000,
+  "h": 900,
+  "alt": "Femme portant un grand cabas à l'épaule"
+ },
+ "cat-sacs.jpg": {
+  "q": "woman leather shoulder bag",
+  "w": 760,
+  "h": 720,
+  "alt": "Femme avec un sac en cuir porté épaule"
+ },
+ "cat-sacs-hero.jpg": {
+  "q": "woman camel coat handbag",
+  "w": 2000,
+  "h": 900,
+  "alt": "Femme avec un sac en cuir porté épaule"
+ },
+ "cat-pret-a-porter.jpg": {
+  "q": "woman elegant dress street",
+  "w": 760,
+  "h": 720,
+  "alt": "Femme en robe fluide dans la rue"
+ },
+ "cat-pret-a-porter-hero.jpg": {
+  "q": "woman long dress walking",
+  "w": 2000,
+  "h": 900,
+  "alt": "Femme en robe fluide dans la rue"
+ },
+ "cat-chaussures.jpg": {
+  "q": "woman leather ankle boots",
+  "w": 760,
+  "h": 720,
+  "alt": "Bottines en cuir portées sur des pavés"
+ },
+ "cat-chaussures-hero.jpg": {
+  "q": "woman boots walking",
+  "w": 2000,
+  "h": 900,
+  "alt": "Bottines en cuir portées sur des pavés"
+ },
+ "cat-cadeaux.jpg": {
+  "q": "elegant gift box scarf",
+  "w": 760,
+  "h": 720,
+  "alt": "Paquet cadeau élégant et écharpe en laine"
+ },
+ "cat-cadeaux-hero.jpg": {
+  "q": "wrapped gift luxury",
+  "w": 2000,
+  "h": 900,
+  "alt": "Paquet cadeau élégant et écharpe en laine"
+ },
+ "sub-cabastoile.jpg": {
+  "q": "canvas tote bag",
+  "w": 200,
+  "h": 200,
+  "alt": "canvas tote bag"
+ },
+ "sub-cabascuir.jpg": {
+  "q": "leather tote bag",
+  "w": 200,
+  "h": 200,
+  "alt": "leather tote bag"
+ },
+ "sub-lin.jpg": {
+  "q": "beige linen bag",
+  "w": 200,
+  "h": 200,
+  "alt": "linen bag"
+ },
+ "sub-raphia.jpg": {
+  "q": "raffia tote bag",
+  "w": 200,
+  "h": 200,
+  "alt": "raffia tote bag"
+ },
+ "sub-petitcabas.jpg": {
+  "q": "small handbag woman",
+  "w": 200,
+  "h": 200,
+  "alt": "small handbag woman"
+ },
+ "sub-grandcabas.jpg": {
+  "q": "big tote bag woman",
+  "w": 200,
+  "h": 200,
+  "alt": "large tote bag shoulder"
+ },
+ "sub-perso.jpg": {
+  "q": "monogram bag",
+  "w": 200,
+  "h": 200,
+  "alt": "embroidered bag initials"
+ },
+ "sub-epaule.jpg": {
+  "q": "shoulder bag woman",
+  "w": 200,
+  "h": 200,
+  "alt": "shoulder bag woman"
+ },
+ "sub-bandouliere.jpg": {
+  "q": "crossbody bag woman",
+  "w": 200,
+  "h": 200,
+  "alt": "crossbody bag woman"
+ },
+ "sub-hobo.jpg": {
+  "q": "hobo bag leather",
+  "w": 200,
+  "h": 200,
+  "alt": "hobo bag leather"
+ },
+ "sub-travail.jpg": {
+  "q": "woman work bag laptop",
+  "w": 200,
+  "h": 200,
+  "alt": "woman work bag laptop"
+ },
+ "sub-panier.jpg": {
+  "q": "straw basket bag",
+  "w": 200,
+  "h": 200,
+  "alt": "straw basket bag"
+ },
+ "sub-pochette.jpg": {
+  "q": "clutch bag",
+  "w": 200,
+  "h": 200,
+  "alt": "clutch bag"
+ },
+ "sub-maroquinerie.jpg": {
+  "q": "leather wallet",
+  "w": 200,
+  "h": 200,
+  "alt": "leather wallet"
+ },
+ "sub-robe.jpg": {
+  "q": "woman dress",
+  "w": 200,
+  "h": 200,
+  "alt": "woman dress"
+ },
+ "sub-blouse.jpg": {
+  "q": "silk blouse woman",
+  "w": 200,
+  "h": 200,
+  "alt": "silk blouse woman"
+ },
+ "sub-cachemire.jpg": {
+  "q": "cashmere sweater woman",
+  "w": 200,
+  "h": 200,
+  "alt": "cashmere sweater woman"
+ },
+ "sub-manteau.jpg": {
+  "q": "woman wool coat",
+  "w": 200,
+  "h": 200,
+  "alt": "woman wool coat"
+ },
+ "sub-jeans.jpg": {
+  "q": "woman jeans",
+  "w": 200,
+  "h": 200,
+  "alt": "woman jeans"
+ },
+ "sub-jupe.jpg": {
+  "q": "woman midi skirt",
+  "w": 200,
+  "h": 200,
+  "alt": "woman midi skirt"
+ },
+ "sub-lingerie.jpg": {
+  "q": "lace lingerie",
+  "w": 200,
+  "h": 200,
+  "alt": "lace lingerie"
+ },
+ "sub-bottines.jpg": {
+  "q": "leather ankle boots",
+  "w": 200,
+  "h": 200,
+  "alt": "leather ankle boots"
+ },
+ "sub-bottes.jpg": {
+  "q": "knee high boots",
+  "w": 200,
+  "h": 200,
+  "alt": "knee high boots"
+ },
+ "sub-baskets.jpg": {
+  "q": "white sneakers",
+  "w": 200,
+  "h": 200,
+  "alt": "white sneakers"
+ },
+ "sub-mocassins.jpg": {
+  "q": "leather loafers",
+  "w": 200,
+  "h": 200,
+  "alt": "leather loafers"
+ },
+ "sub-ballerines.jpg": {
+  "q": "ballet flats",
+  "w": 200,
+  "h": 200,
+  "alt": "ballet flats"
+ },
+ "sub-sandales.jpg": {
+  "q": "leather sandals",
+  "w": 200,
+  "h": 200,
+  "alt": "leather sandals"
+ },
+ "sub-escarpins.jpg": {
+  "q": "black pumps heels",
+  "w": 200,
+  "h": 200,
+  "alt": "black pumps heels"
+ },
+ "sub-cadeau1.jpg": {
+  "q": "small gift box",
+  "w": 200,
+  "h": 200,
+  "alt": "small gift box"
+ },
+ "sub-cadeau2.jpg": {
+  "q": "gift wrapping ribbon",
+  "w": 200,
+  "h": 200,
+  "alt": "gift wrapping ribbon"
+ },
+ "sub-cadeau3.jpg": {
+  "q": "gift box ribbon luxury",
+  "w": 200,
+  "h": 200,
+  "alt": "luxury gift bag"
+ },
+ "sub-sacoffrir.jpg": {
+  "q": "handbag gift",
+  "w": 200,
+  "h": 200,
+  "alt": "handbag gift"
+ },
+ "sub-bijoux.jpg": {
+  "q": "gold jewelry",
+  "w": 200,
+  "h": 200,
+  "alt": "gold jewelry"
+ },
+ "sub-echarpe.jpg": {
+  "q": "wool scarf",
+  "w": 200,
+  "h": 200,
+  "alt": "wool scarf"
+ },
+ "sub-carte.jpg": {
+  "q": "gift card envelope",
+  "w": 200,
+  "h": 200,
+  "alt": "gift card envelope"
+ },
+ "une.jpg": {
+  "q": "woman tote bag fashion",
+  "w": 1300,
+  "h": 860,
+  "alt": "Femme portant un cabas dans la rue"
+ },
+ "art-2.jpg": {
+  "q": "leather tote bag woman",
+  "w": 1300,
+  "h": 860,
+  "alt": "Cabas en cuir porté à la main"
+ },
+ "art-3.jpg": {
+  "q": "canvas tote bag woman",
+  "w": 1300,
+  "h": 860,
+  "alt": "Cabas en toile porté à l'épaule"
+ },
+ "art-4.jpg": {
+  "q": "woman bag contents",
+  "w": 1300,
+  "h": 860,
+  "alt": "Contenu d'un sac posé sur une table"
+ },
+ "art-5.jpg": {
+  "q": "leather handbag woman paris",
+  "w": 1300,
+  "h": 860,
+  "alt": "Femme avec un sac en cuir à Paris"
+ },
+ "art-6.jpg": {
+  "q": "woman shoulder bag fashion",
+  "w": 1300,
+  "h": 860,
+  "alt": "Femme portant un sac à l'épaule"
+ },
+ "art-7.jpg": {
+  "q": "woman commute work bag",
+  "w": 1300,
+  "h": 860,
+  "alt": "Femme allant au travail avec son sac"
+ },
+ "art-8.jpg": {
+  "q": "woman straw bag summer",
+  "w": 1300,
+  "h": 860,
+  "alt": "Femme avec un sac en raphia en été"
+ },
+ "art-9.jpg": {
+  "q": "leather care brush",
+  "w": 1300,
+  "h": 860,
+  "alt": "Entretien d'un sac en cuir"
+ },
+ "art-10.jpg": {
+  "q": "leather craftsman workshop",
+  "w": 1300,
+  "h": 860,
+  "alt": "Artisan maroquinier dans son atelier"
+ },
+ "art-11.jpg": {
+  "q": "woman fashion paris",
+  "w": 1300,
+  "h": 860,
+  "alt": "Femme élégante à Paris"
+ },
+ "art-12.jpg": {
+  "q": "woman dress paris",
+  "w": 1300,
+  "h": 860,
+  "alt": "Femme en robe de soie"
+ },
+ "art-13.jpg": {
+  "q": "lace lingerie",
+  "w": 1300,
+  "h": 860,
+  "alt": "Lingerie en dentelle"
+ },
+ "art-14.jpg": {
+  "q": "minimalist wardrobe clothes",
+  "w": 1300,
+  "h": 860,
+  "alt": "Garde-robe minimaliste sur portant"
+ },
+ "art-15.jpg": {
+  "q": "white leather sneakers",
+  "w": 1300,
+  "h": 860,
+  "alt": "Baskets blanches portées en ville"
+ },
+ "art-16.jpg": {
+  "q": "woman opening gift",
+  "w": 1300,
+  "h": 860,
+  "alt": "Femme ouvrant un cadeau"
+ },
+ "art-17.jpg": {
+  "q": "gift shopping bags",
+  "w": 1300,
+  "h": 860,
+  "alt": "Sacs de cadeaux"
+ },
+ "in-meilleur-cabas-1.jpg": {
+  "q": "woman tote bag cafe",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman tote bag cafe"
+ },
+ "in-meilleur-cabas-2.jpg": {
+  "q": "woman beige tote bag",
+  "w": 1200,
+  "h": 700,
+  "alt": "tote bag shoulder"
+ },
+ "in-cabas-cuir-1.jpg": {
+  "q": "leather tote bag",
+  "w": 1200,
+  "h": 700,
+  "alt": "leather tote bag"
+ },
+ "in-cabas-cuir-2.jpg": {
+  "q": "woman brown leather bag",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman brown leather bag"
+ },
+ "in-cabas-toile-1.jpg": {
+  "q": "canvas bag market",
+  "w": 1200,
+  "h": 700,
+  "alt": "canvas bag market"
+ },
+ "in-cabas-toile-2.jpg": {
+  "q": "woman carrying bag market",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman canvas tote"
+ },
+ "in-taille-cabas-1.jpg": {
+  "q": "tote bag open",
+  "w": 1200,
+  "h": 700,
+  "alt": "laptop in tote bag"
+ },
+ "in-taille-cabas-2.jpg": {
+  "q": "woman packing bag",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman packing bag"
+ },
+ "in-marques-sacs-francais-1.jpg": {
+  "q": "handbag boutique",
+  "w": 1200,
+  "h": 700,
+  "alt": "handbag boutique"
+ },
+ "in-marques-sacs-francais-2.jpg": {
+  "q": "woman black handbag",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman black handbag"
+ },
+ "in-sac-porte-epaule-1.jpg": {
+  "q": "woman shoulder bag street",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman shoulder bag street"
+ },
+ "in-sac-porte-epaule-2.jpg": {
+  "q": "leather shoulder bag detail",
+  "w": 1200,
+  "h": 700,
+  "alt": "leather shoulder bag detail"
+ },
+ "in-sac-travail-1.jpg": {
+  "q": "woman office laptop bag",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman office laptop bag"
+ },
+ "in-sac-travail-2.jpg": {
+  "q": "woman train commute",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman train commute"
+ },
+ "in-sac-raphia-1.jpg": {
+  "q": "straw bag woman summer",
+  "w": 1200,
+  "h": 700,
+  "alt": "straw bag beach"
+ },
+ "in-sac-raphia-2.jpg": {
+  "q": "woven basket bag",
+  "w": 1200,
+  "h": 700,
+  "alt": "woven basket bag"
+ },
+ "in-entretien-sac-cuir-1.jpg": {
+  "q": "leather bag cleaning",
+  "w": 1200,
+  "h": 700,
+  "alt": "leather conditioner"
+ },
+ "in-entretien-sac-cuir-2.jpg": {
+  "q": "leather bag closeup",
+  "w": 1200,
+  "h": 700,
+  "alt": "leather bag closeup"
+ },
+ "in-cuir-qualite-1.jpg": {
+  "q": "leather stitching closeup",
+  "w": 1200,
+  "h": 700,
+  "alt": "leather stitching closeup"
+ },
+ "in-cuir-qualite-2.jpg": {
+  "q": "leather hides workshop",
+  "w": 1200,
+  "h": 700,
+  "alt": "leather hides workshop"
+ },
+ "in-marques-mode-femme-1.jpg": {
+  "q": "woman blazer street style",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman blazer street style"
+ },
+ "in-marques-mode-femme-2.jpg": {
+  "q": "woman knit sweater",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman knit sweater"
+ },
+ "in-robes-createurs-1.jpg": {
+  "q": "woman floral dress",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman floral dress"
+ },
+ "in-robes-createurs-2.jpg": {
+  "q": "woman black dress evening",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman black dress evening"
+ },
+ "in-lingerie-francaise-1.jpg": {
+  "q": "lace bra",
+  "w": 1200,
+  "h": 700,
+  "alt": "lace bra"
+ },
+ "in-lingerie-francaise-2.jpg": {
+  "q": "silk lingerie",
+  "w": 1200,
+  "h": 700,
+  "alt": "silk lingerie"
+ },
+ "in-garde-robe-capsule-1.jpg": {
+  "q": "clothes rack neutral",
+  "w": 1200,
+  "h": 700,
+  "alt": "clothes rack neutral"
+ },
+ "in-garde-robe-capsule-2.jpg": {
+  "q": "folded sweaters",
+  "w": 1200,
+  "h": 700,
+  "alt": "folded sweaters"
+ },
+ "in-baskets-blanches-1.jpg": {
+  "q": "white leather sneakers",
+  "w": 1200,
+  "h": 700,
+  "alt": "white leather sneakers"
+ },
+ "in-baskets-blanches-2.jpg": {
+  "q": "woman white sneakers city",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman sneakers street"
+ },
+ "in-idees-cadeaux-femme-1.jpg": {
+  "q": "woman gift scarf",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman gift scarf"
+ },
+ "in-idees-cadeaux-femme-2.jpg": {
+  "q": "jewelry gift box",
+  "w": 1200,
+  "h": 700,
+  "alt": "jewelry gift box"
+ },
+ "in-budget-cadeau-1.jpg": {
+  "q": "christmas gift wrapping",
+  "w": 1200,
+  "h": 700,
+  "alt": "christmas gift wrapping"
+ },
+ "in-budget-cadeau-2.jpg": {
+  "q": "woman shopping bags",
+  "w": 1200,
+  "h": 700,
+  "alt": "woman shopping bags"
+ }
+}

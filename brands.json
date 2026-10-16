@@ -1,0 +1,186 @@
+[
+ {
+  "slug": "vanessa-bruno",
+  "name": "Vanessa Bruno",
+  "domain": "vanessabruno.fr",
+  "wiki": "Vanessa Bruno",
+  "role": "client"
+ },
+ {
+  "slug": "sezane",
+  "name": "Sézane",
+  "domain": "sezane.com",
+  "wiki": "Sézane",
+  "role": "competitor"
+ },
+ {
+  "slug": "bash",
+  "name": "ba&sh",
+  "domain": "ba-sh.com",
+  "wiki": "Ba&sh",
+  "role": "competitor"
+ },
+ {
+  "slug": "maje",
+  "name": "Maje",
+  "domain": "maje.com",
+  "wiki": "Maje (entreprise)",
+  "role": "competitor"
+ },
+ {
+  "slug": "sandro",
+  "name": "Sandro",
+  "domain": "sandro-paris.com",
+  "wiki": "Sandro (entreprise)",
+  "role": "competitor"
+ },
+ {
+  "slug": "gerard-darel",
+  "name": "Gérard Darel",
+  "domain": "gerarddarel.com",
+  "wiki": "Gérard Darel",
+  "role": "competitor"
+ },
+ {
+  "slug": "soeur",
+  "name": "Sœur",
+  "domain": "soeur.fr",
+  "role": "competitor"
+ },
+ {
+  "slug": "polene",
+  "name": "Polène",
+  "domain": "polene-paris.com",
+  "wiki": "Polène",
+  "role": "competitor"
+ },
+ {
+  "slug": "longchamp",
+  "name": "Longchamp",
+  "domain": "longchamp.com",
+  "wiki": "Longchamp (entreprise)",
+  "role": "competitor"
+ },
+ {
+  "slug": "apc",
+  "name": "A.P.C.",
+  "domain": "apc.fr",
+  "wiki": "A.P.C.",
+  "role": "competitor"
+ },
+ {
+  "slug": "claudie-pierlot",
+  "name": "Claudie Pierlot",
+  "domain": "claudiepierlot.com",
+  "wiki": "Claudie Pierlot",
+  "role": "competitor"
+ },
+ {
+  "slug": "le-tanneur",
+  "name": "Le Tanneur",
+  "domain": "letanneur.com",
+  "wiki": "Le Tanneur",
+  "role": "competitor"
+ },
+ {
+  "slug": "lancaster",
+  "name": "Lancaster",
+  "domain": "lancaster.com",
+  "role": "competitor"
+ },
+ {
+  "slug": "veja",
+  "name": "Veja",
+  "domain": "veja-store.com",
+  "wiki": "Veja (entreprise)",
+  "role": "competitor"
+ },
+ {
+  "slug": "adidas",
+  "name": "Adidas",
+  "domain": "adidas.fr",
+  "wiki": "Adidas",
+  "role": "competitor"
+ },
+ {
+  "slug": "new-balance",
+  "name": "New Balance",
+  "domain": "newbalance.fr",
+  "wiki": "New Balance",
+  "role": "competitor"
+ },
+ {
+  "slug": "autry",
+  "name": "Autry",
+  "domain": "autry-usa.com",
+  "role": "competitor"
+ },
+ {
+  "slug": "golden-goose",
+  "name": "Golden Goose",
+  "domain": "goldengoose.com",
+  "wiki": "Golden Goose",
+  "role": "competitor"
+ },
+ {
+  "slug": "nike",
+  "name": "Nike",
+  "domain": "nike.com",
+  "wiki": "Nike (entreprise)",
+  "role": "competitor"
+ },
+ {
+  "slug": "aubade",
+  "name": "Aubade",
+  "domain": "aubade.fr",
+  "wiki": "Aubade",
+  "role": "competitor"
+ },
+ {
+  "slug": "simone-perele",
+  "name": "Simone Pérèle",
+  "domain": "simone-perele.com",
+  "wiki": "Simone Pérèle",
+  "role": "competitor"
+ },
+ {
+  "slug": "maison-lejaby",
+  "name": "Maison Lejaby",
+  "domain": "maisonlejaby.com",
+  "wiki": "Lejaby",
+  "role": "competitor"
+ },
+ {
+  "slug": "princesse-tam-tam",
+  "name": "Princesse tam.tam",
+  "domain": "princessetamtam.com",
+  "wiki": "Princesse tam.tam",
+  "role": "competitor"
+ },
+ {
+  "slug": "chantelle",
+  "name": "Chantelle",
+  "domain": "chantelle.com",
+  "wiki": "Chantelle (entreprise)",
+  "role": "competitor"
+ },
+ {
+  "slug": "yse",
+  "name": "Ysé",
+  "domain": "yse-paris.com",
+  "role": "competitor"
+ },
+ {
+  "slug": "superga",
+  "name": "Superga",
+  "domain": "superga.com",
+  "wiki": "Superga (entreprise)",
+  "role": "competitor"
+ },
+ {
+  "slug": "maison-close",
+  "name": "Maison Close",
+  "domain": "maison-close.com",
+  "role": "competitor"
+ }
+]
