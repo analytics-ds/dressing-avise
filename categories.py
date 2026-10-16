@@ -29,7 +29,7 @@ CATS = [
   title="Meilleurs sacs à main femme 2026, comparatifs et classement",
   desc="Comparatifs de sacs à main pour femme, porté épaule, hobo, sac de travail et raphia. Prix relevés en octobre 2026, cuirs, origine, finitions. Le classement des meilleures marques.",
   intro="Porté épaule, bandoulière, hobo ou panier d'été. Nous relevons l'origine du cuir, les finitions et les prix, nous portons les sacs une semaine, puis nous classons les marques.",
-  hero="cat-sacs-hero.jpg", hero_alt="Femme en manteau camel avec un sac en cuir porté épaule",
+  hero="cat-sacs-hero.jpg", hero_alt="Sac en cuir noir porté sur un manteau gris en automne",
   subnav=["Sacs porté épaule","Sacs bandoulière","Sacs hobo","Sacs pour le travail","Paniers &amp; raphia","Pochettes","Petite maroquinerie"], count="6 comparatifs",
   une_h2="Le comparatif de sacs de la semaine",
   grid_h2="Tous nos comparatifs de sacs à main",
